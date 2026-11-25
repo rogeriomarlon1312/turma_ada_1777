@@ -1,2 +1,2 @@
 # turma_ada_1777
-Repositório para aula de gihub
+Repositório para aula de github
